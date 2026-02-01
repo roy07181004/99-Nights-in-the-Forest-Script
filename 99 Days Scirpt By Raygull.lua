@@ -500,3 +500,4 @@ for _, itemName in ipairs(teleportTargets) do
         end
     })
 end 
+
